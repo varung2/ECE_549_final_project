@@ -15,4 +15,4 @@ Checkpoints are stored in google drive:
 - https://drive.google.com/drive/folders/1jWSXqSiZjW1X4itvnuPQFP69CnKKMCHR?usp=sharing
 
 Generated data is also stored in google drive:
-- (TODO - will add link once folder finishes uploading)
+- https://drive.google.com/drive/folders/1Ioa0oeQtIaG8nzhhGq0M00xJeN8riOJw?usp=sharing
